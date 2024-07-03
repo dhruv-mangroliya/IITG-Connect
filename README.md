@@ -51,10 +51,3 @@ This project is used by the following:
 #### How will obtain my shortest path from source to destination?
 
 Every possible source and destination is mapped with a number ranging from (1 to 64). Path in the application will display the nodes in order to reach the destination. 
-
-
-
-## Authors
-
-- [@siddharthKashyap](https://github.com/dis-28)
-
