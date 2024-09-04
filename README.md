@@ -6,8 +6,7 @@ A brief description of what this project does and who it's for
 
 ## Demo
 
-- [demoLink1](https://drive.google.com/file/d/1pSaGIDEtcM-XmPJak_nZ6Mssc4cG5uYW/view?usp=drive_link)
-- [demoLink2](https://drive.google.com/file/d/1x2HZc2gG3Tu4LInNPUDaE8FMJ9c68KOH/view?usp=sharing)
+- [demoLink](https://www.loom.com/share/3c07238208764a6cafe9208a76b53af3?sid=8d29f8af-d216-4da6-9ddc-9bf605d5d09b)
 
 
 
